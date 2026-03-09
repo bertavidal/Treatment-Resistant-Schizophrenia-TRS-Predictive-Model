@@ -45,9 +45,3 @@ Strongest predictor: `Initial_response` (coefficient = -0.457).
 Model assumes linear relationships, has moderate discriminative capacity, and has not undergone clinical validation. It must not be used for diagnosis or therapeutic decisions.
 
 ---
-
-## References
-
-- [Kaggle Competition](https://www.kaggle.com/competitions/trs-prediction-iaa-2024-25q1) | [Dataset source](https://www.nature.com/articles/s41537-021-00170-0) | [scikit-learn](https://scikit-learn.org/stable/modules/linear_model.html)
-
----
